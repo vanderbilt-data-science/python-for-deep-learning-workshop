@@ -1,5 +1,5 @@
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/vanderbilt-data-science/python-for-deep-learning-workshop)
-# Python for Deep Learning
+# Python for Data Science
 > Foundational skills in Python for deep learning
 
 ## Overview
