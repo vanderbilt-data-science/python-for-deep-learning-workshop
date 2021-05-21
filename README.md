@@ -34,6 +34,13 @@ During these workshops, we'll have a number of breakout rooms where you'll work 
 
 https://docs.google.com/document/d/12oTzNynYDFmnu2arVQYUZoeupl8mgt1YlanRb8R-0yM/edit?usp=sharing
 
+## Workshop Video Recordings
+Video recordings of these workshops can be found at the links below:
+
+- Day 1: https://www.youtube.com/watch?v=9_7K9_bUCww
+- Day 2: https://www.youtube.com/watch?v=eY2YQ4qQUSM
+- Day 3: Coming Soon!
+
 ## Asynchronous (Homework) Assignments
 A number of examples will be left to the reader.  Please complete these assignments prior to coming to the next workshop.  These will help in developing intuition and understanding for the next workshop topics.
 
